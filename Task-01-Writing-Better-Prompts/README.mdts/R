@@ -1,0 +1,66 @@
+Task 01 – Writing Better Prompts
+
+Internship
+
+SkillCraft Technology – Prompt Engineering Internship
+
+Objective
+
+To understand how improving a vague prompt into a clear and specific prompt can generate more informative and structured AI responses.
+
+1. Vague Prompt
+
+"Explain about fruits."
+
+AI Response
+
+Fruits are the edible parts of plants that usually contain seeds. They are an important part of our daily diet because they provide vitamins, minerals, fibre, and water.
+
+Fruits have different types, including citrus fruits, tropical fruits, berries, melons, and stone fruits.
+
+They support digestion, hydration, immunity, and overall health.
+
+2. Developed Prompt
+
+"Assume you are a nutritionist. Now explain about fruits, its advantages and types."
+
+AI Response
+
+As a nutritionist, I would explain that fruits are an essential part of a healthy and balanced diet. They contain vitamins, minerals, fibre, antioxidants, and water.
+
+Advantages of Fruits:
+
+1. Improve immunity.
+2. Support digestion.
+3. Help maintain hydration.
+4. Support heart health.
+5. Provide energy.
+6. Protect body cells through antioxidants.
+
+Types of Fruits:
+
+1. Citrus fruits – Orange, lemon and lime.
+2. Tropical fruits – Mango, banana and pineapple.
+3. Berries – Strawberry, blueberry and raspberry.
+4. Stone fruits – Peach, plum and cherry.
+5. Melons – Watermelon and muskmelon.
+
+3. Comparison
+
+Vague Prompt| Developed Prompt
+Gives a general explanation.| Gives a nutrition-focused explanation.
+Does not specify the expected details.| Clearly requests advantages and types.
+Has a broad response.| Has a more structured response.
+
+4. Key Learnings
+
+- Clear instructions improve AI responses.
+- Adding a role gives the response a specific perspective.
+- Mentioning the expected topics makes the answer more relevant.
+- A well-developed prompt produces a more focused response.
+
+5. Conclusion
+
+This task helped me understand the importance of prompt clarity, context, and specific instructions in prompt engineering.
+
+#SkillCraftTechnology #PromptEngineering
