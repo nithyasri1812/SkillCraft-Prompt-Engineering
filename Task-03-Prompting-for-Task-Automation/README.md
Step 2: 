@@ -1,0 +1,97 @@
+Task 03 – Prompting for Task Automation
+
+Internship
+
+SkillCraft Technology – Prompt Engineering Internship
+
+1. Objective
+
+To understand how prompts can organize information into structured sections and generate clear, meaningful, and easy-to-understand responses.
+
+2. Vague Prompt
+
+"Explain about people."
+
+AI-Generated Response
+
+People are human beings who live in society and interact with one another. Every person has unique thoughts, feelings, abilities, interests, and experiences.
+
+People communicate, work, learn, share ideas, and help one another. They form families, friendships, and communities.
+
+People play an important role in building society through their knowledge, creativity, cooperation, and contributions.
+
+3. Developed Prompt
+
+"Briefly explain about people and also about their:
+
+1. Introduction
+2. Characteristics
+3. Types of people based on roles in society
+4. Responsibilities
+5. Contributions to society."
+
+AI-Generated Response
+
+People and Their Role in Society
+
+1. Introduction
+
+People are human beings who live together in communities and interact with one another. They form families, friendships, and societies.
+
+2. Characteristics
+
+- Communication: People share thoughts and ideas.
+- Emotions: They experience different feelings.
+- Learning: They gain knowledge and develop skills.
+- Cooperation: They work together to achieve common goals.
+- Creativity: They develop new ideas and solutions.
+
+3. Types of People Based on Roles in Society
+
+- Teachers: Educate and guide students.
+- Doctors: Provide healthcare and medical support.
+- Farmers: Grow crops and produce food.
+- Engineers: Design and develop useful technologies.
+- Police officers: Help maintain public safety.
+- Social workers: Support people and communities.
+
+4. Responsibilities
+
+- Respecting others and their rights.
+- Following rules and laws.
+- Protecting the environment.
+- Helping people in need.
+- Contributing positively to society.
+
+5. Contributions to Society
+
+- Developing education and knowledge.
+- Improving healthcare.
+- Supporting economic growth.
+- Promoting science and technology.
+- Encouraging peace, equality, and cooperation.
+
+Conclusion
+
+People are the foundation of society. Their different skills, responsibilities, and contributions help communities grow and develop.
+
+4. Comparison
+
+Vague Prompt| Developed Prompt
+Gives a general explanation.| Requests five specific sections.
+Does not specify the format.| Organizes information with headings and bullet points.
+Provides broad information.| Provides focused information about people's roles in society.
+Has no specific requirements.| Clearly states what information is expected.
+
+5. Key Learnings
+
+- Specific instructions improve the relevance of AI responses.
+- Dividing information into sections makes it easier to understand.
+- Structured prompts help organize information.
+- Clear requirements make AI outputs more useful.
+
+6. Conclusion
+
+This task helped me understand how a vague prompt can be transformed into a structured prompt to generate organized and meaningful information.
+
+#SkillCraftTechnology #PromptEngineering
